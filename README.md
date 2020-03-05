@@ -14,6 +14,7 @@ $ pip install wandb
 ```
 
 
+
 ## train data 준비
 - [Naver Movie](https://movie.naver.com/movie/point/af/list.nhn) 데이터를 사용 했습니다.
 ```sh
